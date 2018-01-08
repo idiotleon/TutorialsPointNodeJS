@@ -1,3 +1,7 @@
+/*
+    exec - child_process.exec method runs a command in a shell/console and buffers the output
+*/
+
 const fs = require('fs');
 const child_process = require('child_process');
 
